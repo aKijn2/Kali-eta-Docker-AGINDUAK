@@ -59,7 +59,3 @@ whatweb [pagina]
 
 https://miwifi.com [200 OK] Country[UNITED STATES][US], Email[wf_miwifi@2x.png,wf_video01@2x.jpg,wf_video_mitu@2x.jpg,wf_video_trans@2x.jpg], Frame, HTML5, HTTPServer[Tengine], IP[18.185.134.188], JQuery[1.5.1], Script, Tengine-Web-Server, Title[MiWiFi – 小米路由器官网]
 ```
-
-### 
-=======
->>>>>>> 391b6b0e4a08a4dab8a23dc882d5afc748c599c4
